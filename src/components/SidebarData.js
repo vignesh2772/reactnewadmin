@@ -11,33 +11,63 @@ export const SidebarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Reports',
-    path: '/reports',
+    title: 'Payments',
+    path: '/payments',
     icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
   },
   {
-    title: 'Products',
-    path: '/products',
+    title: 'Refunds',
+    path: '/refunds',
     icon: <FaIcons.FaCartPlus />,
     cName: 'nav-text'
   },
   {
-    title: 'Team',
-    path: '/team',
+    title: 'Settlements',
+    path: '/settlements',
     icon: <IoIcons.IoMdPeople />,
     cName: 'nav-text'
   },
   {
-    title: 'Messages',
-    path: '/messages',
+    title: 'Smart Routing',
+    path: '/smartrouting',
     icon: <FaIcons.FaEnvelopeOpenText />,
     cName: 'nav-text'
   },
   {
-    title: 'Support',
-    path: '/support',
+    title: 'Plans',
+    path: '/plans',
     icon: <IoIcons.IoMdHelpCircle />,
     cName: 'nav-text'
-  }
+  },
+  {
+    title: 'Subscriptions',
+    path: '/subscriptions',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Payment Links',
+    path: '/paymentlinks',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Analytics',
+    path: '/analytics',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Checkout Theme',
+    path: '/checkouttheme',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Settings',
+    path: '/settings',
+    icon: <IoIcons.IoMdHelpCircle />,
+    cName: 'nav-text'
+  },
 ];
